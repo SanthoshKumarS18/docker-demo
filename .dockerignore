@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment files
+.env
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
